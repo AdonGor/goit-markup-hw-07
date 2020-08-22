@@ -153,8 +153,8 @@
   position: absolute;
   top: 20px;
   left: 58px;
-  transition: translateY(-50%);
-  transition: transform 250ms linear;
+  transform: translateY(-50%);
+  transition: 250ms linear;
   font-family: $Roboto-font;
   font-size: 14px;
   line-height: 16px;
